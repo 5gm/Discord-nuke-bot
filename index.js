@@ -19,7 +19,7 @@ const presser = String.raw`
 
                                                             
                                                                       
-                                        Author: Velqy#6761
+                                        Author: Velqy#6969
 `;
 
 console.log(red(presser));
